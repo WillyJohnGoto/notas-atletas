@@ -9,7 +9,7 @@ Primeiro projeto de certificação da Trilha 1 - Lógica de Programação da Jor
 </p>
 
 ## Descrição do projeto
-Aplicação capaz de receber o nome e pontuação dos atletas, calcular a média e apresentar ao usuário.
+Aplicação capaz de receber o nome e pontuação dos atletas de uma determinada competição de ginástica artística, calcular a média e apresentar ao usuário.
 
 A média das notas é computada sem considerar a maior e menor nota do atleta.
 
